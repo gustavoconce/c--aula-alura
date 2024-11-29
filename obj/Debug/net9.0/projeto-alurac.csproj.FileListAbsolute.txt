@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\bin\Debug\net9.0\projeto-alurac.exe
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\bin\Debug\net9.0\projeto-alurac.deps.json
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\bin\Debug\net9.0\projeto-alurac.runtimeconfig.json
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\bin\Debug\net9.0\projeto-alurac.dll
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\bin\Debug\net9.0\projeto-alurac.pdb
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\obj\Debug\net9.0\projeto-alurac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\obj\Debug\net9.0\projeto-alurac.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\obj\Debug\net9.0\projeto-alurac.AssemblyInfo.cs
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\obj\Debug\net9.0\projeto-alurac.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\obj\Debug\net9.0\projeto-alurac.dll
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\obj\Debug\net9.0\refint\projeto-alurac.dll
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\obj\Debug\net9.0\projeto-alurac.pdb
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\obj\Debug\net9.0\projeto-alurac.genruntimeconfig.cache
+C:\Users\gusta\source\repos\projeto-alurac\projeto-alurac\obj\Debug\net9.0\ref\projeto-alurac.dll
